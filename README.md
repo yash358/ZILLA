@@ -1,3 +1,4 @@
+![Screenshot (488)](https://github.com/yash358/ZILLA/assets/93638045/501f40f5-42b7-4c6d-a37c-0dc097d78db8)
 # ZILLA
 E-commerce App using MERN
 https://zilla.onrender.com
