@@ -1,3 +1,4 @@
+![mnit](https://github.com/yash358/ZILLA/assets/93638045/5abf6793-a741-4828-a1a4-9097a19aace4)
 # ZILLA
 E-commerce App using MERN
 https://zilla.onrender.com
